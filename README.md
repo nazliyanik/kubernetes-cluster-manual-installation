@@ -1,5 +1,3 @@
-# kubernetes-cluster-manual-installationKubernetes cluster installation manually
-
 # Hands-on Kubernetes-01a : Installing Kubernetes on Ubuntu 20.04 running on AWS EC2 Instances
 
 Purpose of the this hands-on training is to give students the knowledge of how to install and configure Kubernetes on Ubuntu 20.04 EC2 Instances.
